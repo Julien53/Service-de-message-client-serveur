@@ -1,0 +1,10 @@
+G:\VS saves\clientGUI\bin\Debug\clientGUI.exe
+G:\VS saves\clientGUI\bin\Debug\clientGUI.exe.config
+G:\VS saves\clientGUI\obj\Debug\clientGUI.Form1.resources
+G:\VS saves\clientGUI\obj\Debug\clientGUI.Properties.Resources.resources
+G:\VS saves\clientGUI\obj\Debug\clientGUI.csproj.GenerateResource.cache
+G:\VS saves\clientGUI\obj\Debug\clientGUI.csproj.CoreCompileInputs.cache
+G:\VS saves\clientGUI\obj\Debug\clientGUI.exe
+G:\VS saves\clientGUI\obj\Debug\clientGUI.pdb
+G:\VS saves\clientGUI\bin\Debug\clientGUI.pdb
+G:\VS saves\clientGUI\obj\Debug\clientGUI.csprojAssemblyReference.cache
